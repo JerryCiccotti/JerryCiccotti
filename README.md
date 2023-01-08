@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JerryCiccotti
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 you can reach me at jerryciccotti94@gmail.com
 
 <!---
