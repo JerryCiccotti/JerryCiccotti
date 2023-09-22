@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JerryCiccotti
-- 👀 I’m interested in web development
+- 👀 I’m a Web Developer
 - Studying  Cyber Security
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
